@@ -7,6 +7,11 @@
 ![image of tree](/tree-736885_1280.jpg)
 
 
-<!-- ```shell
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```shell
 git pull 
-``` -->
+```
