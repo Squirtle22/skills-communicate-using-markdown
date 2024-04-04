@@ -15,3 +15,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```shell
 git pull 
 ```
+
+- [ ] learn git
+- [ ] do shecode
+- [ ] create safehaven 
